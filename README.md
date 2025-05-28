@@ -22,7 +22,6 @@ Getting Started
 
 Output
 ---------------
-![Screenshot_20250426-231741](https://github.com/user-attachments/assets/41e2f9c0-c18c-4007-9400-8c86856ce1ea)
 
 ![Screenshot_20250426-232215](https://github.com/user-attachments/assets/bb6be383-8e6c-4d77-86e8-00b8357c1370)
 
